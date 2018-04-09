@@ -11,5 +11,5 @@
 2. [SpringMVC 加密 / 解密请求休中的Json](https://github.com/lj-zhu/blog/issues/4)
 
 ### struts
-[导出Excel/Csv的设计](https://github.com/lj-zhu/blog/issues/5)
-[ThreadLocal在Web应用中的应用](https://github.com/lj-zhu/blog/issues/6)
+1. [导出Excel/Csv的设计](https://github.com/lj-zhu/blog/issues/5) 
+2. [ThreadLocal在Web应用中的应用](https://github.com/lj-zhu/blog/issues/6)
